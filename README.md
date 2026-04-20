@@ -86,6 +86,10 @@ The solution targets **public safety, surveillance, and smart city deployments**
     * CNN inference
     * Event detection
 
+
+## System Architecture
+![Block Diagram](Design.png)
+
 ### AI Model
 
 * Lightweight **8-bit quantized CNN**
